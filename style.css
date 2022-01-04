@@ -3,17 +3,17 @@ body{
     margin: 0%;
 }
 h1{
-    font-size: 40px;
+    font-size: 35px;
 }
 .orange-color{
     color: orange;
 }
-section{
+.flexible-contain{
     display: flex;
     margin-bottom: 160px;
 }
 .half-width{
-    width: 50%;
+    width: 40%;
     padding-left: 5%;
     padding-right: 10%;
 }
