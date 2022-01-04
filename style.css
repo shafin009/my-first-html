@@ -3,7 +3,10 @@ body{
     margin: 0%;
 }
 h1{
-    font-size: 35px;
+    font-size: 40px;
+}
+h2{
+    font-size: 30px;
 }
 .orange-color{
     color: orange;
@@ -38,4 +41,19 @@ h1{
     background-repeat: no-repeat;
     background-position: right;
     background-size: 70px;
+}
+.experience-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 80px;
+    
+}   
+.module{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 2%;
+    border-radius: 7px;
+    box-shadow: 10px 5px 30px grey;
 }
